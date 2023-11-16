@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact"
+  name             : ""
   avatar           : ""
   bio              : ""
   location         : "Alpenquai 4, 6005 Luzern"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
