@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-[**The role of the ask gap in gender pay inequality**](/files/Aid_Malaria.pdf)  <br/>
+[**Does Aid for Malaria Increase with Exposure to Malaria Risk? Evidence from Mining Sites in the D.R.Congo**](/files/Aid_Malaria.pdf)  <br/>
 [2022] **Oxford Bulletin of Economics and Statistics**
 
 <details>
