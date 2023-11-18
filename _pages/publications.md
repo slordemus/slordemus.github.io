@@ -5,16 +5,17 @@ permalink: /Research/
 author_profile: true
 ---
 
-## Working papers
+## Publications
 
 [**Does Aid for Malaria Increase with Exposure to Malaria Risk? Evidence from Mining Sites in the D.R.Congo**](/files/Aid_Malaria.pdf)  <br/>
-[2022] **Oxford Bulletin of Economics and Statistics**
+[2022], **Oxford Bulletin of Economics and Statistics**
 
 <details>
   <summary>Click to view abstract</summary>
 I examine the ability of donors to target the highest exposure to malaria risk when the health information structure is fragmented. I exploit local variations in the risk of malaria transmission induced by mining activities in the Democratic Republic of Congo as well as financial and epidemiological data from health facilities to estimate how local aid is matching the local malaria burden. Using fine-grained data on mines and health infrastructure in a regression discontinuity design, I find no evidence that local populations exposed to the highest risk of malaria transmission receive a proportionately higher share of aid compared to neighbouring areas with reduced exposure to malaria risk. <br/>
 </details>
 
+**International Geneva Award**: [Best paper published on a subject related to international studies ](https://snis.ch/awards/does-aid-for-malaria-increase-with-exposure-to-malaria-risk-evidence-from-mining-sites-in-the-d-r-congo/)  <br/>
 
   [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda; Isadora Bousquat Arabe; Filipe Cavalcanti, Noemi Kreif, and Rodrigo Moreno-Serra) <br/> 
 [Updated, November 2023] Accepted, **World Development**
@@ -23,7 +24,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
   On a global scale, 1 in 3 women experience physical and/or sexual violence in their lifetime, and women of disadvantaged backgrounds are at an even higher risk. Since the outbreak of COVID-19, data have shown that violence against women (VAW) has intensified. In this paper, we review an incipient but rapidly growing literature that evaluates the effects of stay-at-home measures to reduce the spread of COVID-19 on VAW. We focus on low and middle-income countries and classify existing studies into three categories according to the quality of the data used and the reliability of the empirical methodology: not causal, less causal, and causal. Overall, the most rigorous literature for low- and middle-income countries offers mixed evidence about the VAW effects of stay-at-home measures, although increases in VAW have been more frequently observed where stay-at-home measures were stricter. Important reasons for the mixed evidence found in the literature seem to be the different types of violence analyzed (physical, sexual, psychological, or economic) and the difficulties associated with the reporting of these types of VAW. The main methodological challenges faced by this literature relate to data availability and the reliability of the methods employed to separate the effects of social isolation on VAW, from those VAW effects associated with the income and emotional shocks induced by the COVID-19 pandemic. Innovative methods and data can help improve our understanding of the unintended VAW consequences of movement restrictions, including its key pathways, so as to reliably inform the design of better policy responses to this major social and public health challenge. <br/>
 </details>
 
-    
+ ## Working papers 
 
   [**Public financing during counterinsurgency efforts: Evidence from Colombia**](https://www.dropbox.com/scl/fi/k3o55lf80crgr7ofhjwbg/Roussille_Scuderi_072823.pdf?rlkey=wfac2radioseb3ze1au8gi3o3&raw=1) (with [Rodrigo Moreno-Serra](https://sites.google.com/site/rodrigomorenoserra/home) and Noemi Kreif)  <br/>
   [Updated, October 2023] 
