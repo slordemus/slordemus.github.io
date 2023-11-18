@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: Research
+      type: research
     values:
       layout: single
       author_profile: true
