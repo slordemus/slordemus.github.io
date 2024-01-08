@@ -18,7 +18,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 **International Geneva Award**: [Best paper published on a subject related to international studies ](https://snis.ch/awards/does-aid-for-malaria-increase-with-exposure-to-malaria-risk-evidence-from-mining-sites-in-the-d-r-congo/)  <br/>
 
   [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda; Isadora Bousquat Arabe; Filipe Cavalcanti, Noemi Kreif, and Rodrigo Moreno-Serra) <br/> 
-[Updated, November 2023] Accepted, **World Development**
+[Forthcoming] , **World Development**
   <details>
   <summary>Click to view abstract</summary>
   On a global scale, 1 in 3 women experience physical and/or sexual violence in their lifetime, and women of disadvantaged backgrounds are at an even higher risk. Since the outbreak of COVID-19, data have shown that violence against women (VAW) has intensified. In this paper, we review an incipient but rapidly growing literature that evaluates the effects of stay-at-home measures to reduce the spread of COVID-19 on VAW. We focus on low and middle-income countries and classify existing studies into three categories according to the quality of the data used and the reliability of the empirical methodology: not causal, less causal, and causal. Overall, the most rigorous literature for low- and middle-income countries offers mixed evidence about the VAW effects of stay-at-home measures, although increases in VAW have been more frequently observed where stay-at-home measures were stricter. Important reasons for the mixed evidence found in the literature seem to be the different types of violence analyzed (physical, sexual, psychological, or economic) and the difficulties associated with the reporting of these types of VAW. The main methodological challenges faced by this literature relate to data availability and the reliability of the methods employed to separate the effects of social isolation on VAW, from those VAW effects associated with the income and emotional shocks induced by the COVID-19 pandemic. Innovative methods and data can help improve our understanding of the unintended VAW consequences of movement restrictions, including its key pathways, so as to reliably inform the design of better policy responses to this major social and public health challenge. <br/>
@@ -26,7 +26,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 
  ## Working papers 
 
-  [**Public financing during counterinsurgency efforts: Evidence from Colombia**](https://www.dropbox.com/scl/fi/k3o55lf80crgr7ofhjwbg/Roussille_Scuderi_072823.pdf?rlkey=wfac2radioseb3ze1au8gi3o3&raw=1) (with [Rodrigo Moreno-Serra](https://sites.google.com/site/rodrigomorenoserra/home) and Noemi Kreif)  <br/>
+  [**Public financing during counterinsurgency efforts: Evidence from Colombia**](https://hicn.org/wp-content/uploads/2021/06/HiCN-WP-348.pdf) (with [Rodrigo Moreno-Serra](https://sites.google.com/site/rodrigomorenoserra/home) and Noemi Kreif)  <br/>
   [Updated, October 2023] 
   <details>
   <summary>Click to view abstract</summary>
@@ -41,7 +41,7 @@ This paper examines how natural disasters affect local public finances and their
 </details>
 
   
-[**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**] (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
+**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia** (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
 [Updated, November 2023]
 <details>
   <summary>Click to view abstract</summary>
@@ -51,7 +51,7 @@ focus on post-war public services and very little analysis of challenges to rees
 </details>
 
 
-[**Worldwide Child Stunting since the Nineteenth Century**] (with Eric B. Schneider, Juliana Jaramillo-Echeverri, Matthew Purcell, Brian A’Hearn, Vellore Arthi, Matthias Blum, Elizabeth Brainerd, Joseph Capuno, Alexandra L. Cerme˜no, Young-Jun Cho, Amilcar Challu, Tim Cole, Jose Corpuz, Ewout Depauw, Federico Droller, Dieter von Fintel, Jo¨el Floris, Gregori Galofr´e-Vil`a, Bernard Harris, Tim Hatton, Laurent Heyberger, Kris Inwood, Hannaliis Jaadla, Jan Kok, Micha l Kopczy´nski, Brian Marein, Adolfo Meisel-Roca, Stephen Morgan, Stefan ¨Oberg, Kota Ogasawara, Jose Antonio Ortega, Nuno Palma, Anastasios Papadimitriou, Renato Pistola, Bj¨orn Quanjer, Helena Rother, Sakari Saaritsa, Ricardo Salvatore, Kaspar Staub, Pierre van der Eng and Evan Roberts) <br/>
+**Worldwide Child Stunting since the Nineteenth Century** (with Eric B. Schneider, Juliana Jaramillo-Echeverri, Matthew Purcell, Brian A’Hearn, Vellore Arthi, Matthias Blum, Elizabeth Brainerd, Joseph Capuno, Alexandra L. Cerme˜no, Young-Jun Cho, Amilcar Challu, Tim Cole, Jose Corpuz, Ewout Depauw, Federico Droller, Dieter von Fintel, Jo¨el Floris, Gregori Galofr´e-Vil`a, Bernard Harris, Tim Hatton, Laurent Heyberger, Kris Inwood, Hannaliis Jaadla, Jan Kok, Micha l Kopczy´nski, Brian Marein, Adolfo Meisel-Roca, Stephen Morgan, Stefan ¨Oberg, Kota Ogasawara, Jose Antonio Ortega, Nuno Palma, Anastasios Papadimitriou, Renato Pistola, Bj¨orn Quanjer, Helena Rother, Sakari Saaritsa, Ricardo Salvatore, Kaspar Staub, Pierre van der Eng and Evan Roberts) <br/>
 [Updated, November 2023]
 <details>
   <summary>Click to view abstract</summary>
