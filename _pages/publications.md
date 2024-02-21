@@ -1,11 +1,12 @@
 ---
-permalink: /research/
+layout: archive
+title: "Research"
+permalink: /Research/
 author_profile: true
 redirect_from:
   - /research
   - /research.html
 ---
-
 ## Publications
 
 [**Does Aid for Malaria Increase with Exposure to Malaria Risk? Evidence from Mining Sites in the D.R.Congo**](/files/Aid_Malaria.pdf)  <br/>
