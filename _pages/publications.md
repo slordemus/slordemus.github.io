@@ -53,7 +53,7 @@ focus on post-war public services and very little analysis of challenges to rees
 </details>
 
 
-**Worldwide Child Stunting since the Nineteenth Century** (with Eric B. Schneider, Juliana Jaramillo-Echeverri, Matthew Purcell, Brian A’Hearn, Vellore Arthi, Matthias Blum, Elizabeth Brainerd, Joseph Capuno, Alexandra L. Cerme˜no, Young-Jun Cho, Amilcar Challu, Tim Cole, Jose Corpuz, Ewout Depauw, Federico Droller, Dieter von Fintel, Jo¨el Floris, Gregori Galofr´e-Vil`a, Bernard Harris, Tim Hatton, Laurent Heyberger, Kris Inwood, Hannaliis Jaadla, Jan Kok, Micha l Kopczy´nski, Brian Marein, Adolfo Meisel-Roca, Stephen Morgan, Stefan ¨Oberg, Kota Ogasawara, Jose Antonio Ortega, Nuno Palma, Anastasios Papadimitriou, Renato Pistola, Bj¨orn Quanjer, Helena Rother, Sakari Saaritsa, Ricardo Salvatore, Kaspar Staub, Pierre van der Eng and Evan Roberts) <br/>
+**Worldwide Child Stunting since the Nineteenth Century** (with Eric B. Schneider, Juliana Jaramillo-Echeverri, et al.) <br/>
 [Updated, November 2023]
 <details>
   <summary>Click to view abstract</summary>
@@ -64,4 +64,14 @@ Methods: We conducted a systematic review of child growth studies carried out be
 Findings: We found 930 historical child growth studies allowing child stunting rates to be computed for 122 countries. We supplemented these historical studies with the over age 2 stunting estimates from the Joint Malnutrition Estimates adding another 1051 studies. Many current HICs had high levels of child stunting in the early twentieth century similar to low- and middle-income countries (LMICs) today. However, stunting rates were unusually low in Scandinavia, the European settler colonies and in the Caribbean. 
 Interpretation: Child stunting has declined in most parts of the world across the twentieth century, suggesting that the global child stunting rate would have been
 significantly higher in the past and that the eradication of child stunting was an essential part of the health transition. The high stunting rates in HICs in the past and their subsequent eradication of stunting suggests that eradicating child stunting is possible in all LMICs and that current HICs could provide clues for eliminating stunting. <br/>
+</details>
+
+**The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa.** (with Nikita Jacob, Susan Cleary, Rowena Jacobs, Noemi Kreif, Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and Marc Suhrcke) <br/>
+[Updated, December 2023]
+<details>
+  <summary>Click to view abstract</summary>
+For low- and middle-income countries (LMICs), there is scarce evidence on the relationship between mental disorders and economic outcomes, including income, poverty risk and labour
+market performance. By leveraging exogenous variation induced by a mental health intervention, this paper explores the impact of depression on employment, income, expenditure, and out-of-pocket payments for healthcare in South Africa. The econometric approach uses the randomized intervention as an instrumental variable for the change in mental health and utilises a panel data structure with a long 24-month follow-up survey. Building on the estimated beneficial impact of the mental health intervention on depression severity, our
+findings suggest that observed changes in mental health within the considered time period can substantially improve economic outcomes for the population under study. The study
+contributes to informed decision-making regarding investment in mental health interventions, particularly in resource-constrained settings, such as LMICs. <br/>
 </details>
