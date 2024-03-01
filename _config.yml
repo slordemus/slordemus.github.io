@@ -13,9 +13,10 @@ name                     : &name "Lordemus"
 description              : &description "personal description"
 url                      : https://slordemus.github.io # the base hostname & protocol for your site e.g. ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "slordemus/academicpages.github.io"
+repository               : "slordemus/slordemus.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
+seo_description          : "Site for Samuel Lordemus, Post at University of Lucerne"
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -73,9 +74,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "goatcounter" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "071986"
 
 
 # Site Author
@@ -96,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "slordemus"
   google_plus      :
   keybase          :
   instagram        :
