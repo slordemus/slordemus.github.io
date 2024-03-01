@@ -17,9 +17,9 @@ redirect_from:
 I examine the ability of donors to target the highest exposure to malaria risk when the health information structure is fragmented. I exploit local variations in the risk of malaria transmission induced by mining activities in the Democratic Republic of Congo as well as financial and epidemiological data from health facilities to estimate how local aid is matching the local malaria burden. Using fine-grained data on mines and health infrastructure in a regression discontinuity design, I find no evidence that local populations exposed to the highest risk of malaria transmission receive a proportionately higher share of aid compared to neighbouring areas with reduced exposure to malaria risk. <br/>
 </details>
 
----
 **International Geneva Award**: [Best paper published on a subject related to international studies ](https://snis.ch/awards/does-aid-for-malaria-increase-with-exposure-to-malaria-risk-evidence-from-mining-sites-in-the-d-r-congo/)  <br/>
 
+---
   [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda; Isadora Bousquat Arabe; Filipe Cavalcanti, Noemi Kreif, and Rodrigo Moreno-Serra) <br/> 
 [February 2024] , **World Development**
   <details>

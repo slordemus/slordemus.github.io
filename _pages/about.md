@@ -6,8 +6,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
 cover-img:["/images/Quran_Ottoman_18th.png"]
+---
 
 Welcome to this page. My name is Samuel Lordemus and I am a postdoc at the Center for Health, Policy and Economics, University of Lucerne. Before joining Lucerne, I held a Research Fellow position at the Centre for Health Economics, University of York. I received a PhD in Economics from the University of Sheffield, and a MSc from Paris School of Economics. <br>
 
