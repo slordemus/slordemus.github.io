@@ -260,6 +260,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
+github: [metadata]
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
