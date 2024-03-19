@@ -20,7 +20,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 **International Geneva Award**: [Best paper published on a subject related to international studies ](https://snis.ch/awards/does-aid-for-malaria-increase-with-exposure-to-malaria-risk-evidence-from-mining-sites-in-the-d-r-congo/)  <br/>
 
 ---
-  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda; Isadora Bousquat Arabe; Filipe Cavalcanti, Noemi Kreif, and Rodrigo Moreno-Serra) <br/> 
+  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda, Isadora Bousquat Arabe, Filipe Cavalcanti, Noemi Kreif, and Rodrigo Moreno-Serra) <br/> 
 [February 2024] , **World Development**
   <details>
   <summary>Click to view abstract</summary>
@@ -37,7 +37,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 ---
 
   [**Natural Disasters and Local Government Finance: Evidence from Typhoon Haiyan**](/files/NaturalDisastersAndLocalGovernmentFinance.pdf)  (with [Jose Corpuz](https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/) and [Joseph Capuno](https://econ.upd.edu.ph/about-upse/faculty/jjcapuno/))   <br/>
-[March 2024], **Journal of Economic Behavior and Organization**
+[April 2024], **Journal of Economic Behavior and Organization**
 <details>
   <summary>Click to view abstract</summary>
 This paper examines how natural disasters affect local public finances and their interplay with intergovernmental transfers and external resources. Exploiting the randomized nature of the 2013 Typhoon Haiyan, one of the most devastating natural disasters in recent history, we document its causal effect on the local government fiscal dynamics. Combining data on local government finance with reports on the level of damages and using difference-in-differences with instrumental variable to analyze the data, we show that local public revenue and expenditures remain largely unaffected, except for debt payments. However, we find important heterogeneity in local revenue responses: poorer cities and municipalities raised comparatively lower revenue in the aftermath of the Typhoon.  We also provide evidence that external funding did not lead to lower tax collection efforts, but instead leads to higher local expenditures, suggesting that disaster aid does not cause a moral hazard problem in local governments' spending decisions.<br/>
