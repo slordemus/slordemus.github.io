@@ -14,7 +14,6 @@ redirect_from:
 [May 2024], *Political Geography*
 <small>[ [Replication][Repli] ] </small>
 
-</small><br><br/></div>
 [Repli]:{{ site.baseurl }}{% link files/ReplicationGovtpost.zip %}
 
 <details>
