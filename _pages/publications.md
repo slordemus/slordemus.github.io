@@ -12,7 +12,7 @@ redirect_from:
 
 [**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](/files/PostWar_governance.pdf) (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
 [May 2024], *Political Geography*
-<small>[ [Replication][Repli] ] </small>
+<small>[ [Replication code][Repli] ] </small>
 
 [Repli]:{{ site.baseurl }}{% link files/ReplicationGovtpost.zip %}
 
