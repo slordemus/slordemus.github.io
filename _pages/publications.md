@@ -8,18 +8,19 @@ redirect_from:
   - /research.html
 ---
 ## Publications
-[**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**] (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
-[May 2024], *Political Geography*
-<small>[ <a href="#/" onclick="visib('log0')">Abstract</a> | [Draft][log0-draft] ] </small>
+---
 
-<div id="log0" style="display: none; text-align: justify; line-height: 1.2" ><small>
+**[Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia]** (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
+[May 2024], *Political Geography*
+<small>[ <a href="#/" onclick="visib('Gov')">Abstract</a> | [Draft][GovPaper] ] </small>
+
+<div id="Gov" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The signing of a peace agreement represents a chance for the state to renew its social contract with the population in conflict-affected areas, by providing protection and other
 public goods. Failing to meet post-war expectations of a better quality of life risks endangering the negotiated peace. However, in the existing literature there is a lack of
 focus on post-war public services and very little analysis of challenges to reestablishing effective state governance, especially in areas with significant rebel presence. Much of the literature still assumes that conflict zones are ripe for better governance and the post-war impact of rebel governance remains largely unanalysed. Drawing on original survey data, interviews and focus groups, this mixed-methods article analyses the impact of the 2016 Colombian peace agreement on health services in areas with high conflict intensity and sustained rebel presence. It finds an increase in demand for services but without a corresponding improvement in the perceived quality. In fact, in municipalities that host FARC reintegration camps we find a decline in both demand and quality. Three obstacles are identified: 1) a delay in establishing effective state presence, 2) favourable views of wartime healthcare provided by the rebels, 3) high expectations and mistrust of government provisions. The article demonstrates the considerable difficulty of re-establishing effective post-war governance, the importance of local expectations and trust, and the lasting impact of wartime rebel governance. It thereby makes an original and important contribution to the understanding of peacebuilding obstacles and to the growing literature on rebel governance. 
+
 </small><br><br/></div>
-
-
-[log0-draft]:{{ site.baseurl }}{% link files/PostWar_governance.pdf %}
+[GovPaper]:{{ site.baseurl }}{% link files/PostWar_governance.pdf %}
 
 
 [**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](/files/PostWar_governance.pdf) (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
