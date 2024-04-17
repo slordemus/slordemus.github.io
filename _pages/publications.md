@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /Research/
 author_profile: true
 redirect_from:
   - /research
   - /research.html
 ---
-## Publications
+## Published papers
 ---
 
 [**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](/files/PostWar_governance.pdf) (with Nina Caspersen, Urban Jakša and Rodrigo Moreno-Serra) <br/>
