@@ -25,14 +25,14 @@ focus on post-war public services and very little analysis of challenges to rees
 </small>
 </details>
 
-  [**Natural Disasters and Local Government Finance: Evidence from Typhoon Haiyan**](/files/NaturalDisastersAndLocalGovernmentFinance.pdf)  (with [Jose Corpuz](https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/) and [Joseph Capuno](https://econ.upd.edu.ph/about-upse/faculty/jjcapuno/))   <br/>
+  [**Natural Disasters and Local Government Finance: Evidence from Typhoon Haiyan**](/files/NaturalDisastersAndLocalGovernmentFinance.pdf)  (with [Jose Corpuz], and [Joseph Capuno])   <br/>
 [April 2024], *Journal of Economic Behavior and Organization*
 <details>
   <summary>Click to view abstract</summary>
 This paper examines how natural disasters affect local public finances and their interplay with intergovernmental transfers and external resources. Exploiting the randomized nature of the 2013 Typhoon Haiyan, one of the most devastating natural disasters in recent history, we document its causal effect on the local government fiscal dynamics. Combining data on local government finance with reports on the level of damages and using difference-in-differences with instrumental variable to analyze the data, we show that local public revenue and expenditures remain largely unaffected, except for debt payments. However, we find important heterogeneity in local revenue responses: poorer cities and municipalities raised comparatively lower revenue in the aftermath of the Typhoon.  We also provide evidence that external funding did not lead to lower tax collection efforts, but instead leads to higher local expenditures, suggesting that disaster aid does not cause a moral hazard problem in local governments' spending decisions.<br/>
 </details>
 
-  [**Public Healthcare Financing during Counterinsurgency Efforts: Evidence from Colombia**](/files/Public_Healthcare_Colombia.pdf) (with [Rodrigo Moreno-Serra](https://sites.google.com/site/rodrigomorenoserra/home) and Noemi Kreif)  <br/>
+  [**Public Healthcare Financing during Counterinsurgency Efforts: Evidence from Colombia**](/files/Public_Healthcare_Colombia.pdf) (with [Rodrigo Moreno-Serra], and Noemi Kreif)  <br/>
 [February 2024], *Oxford Bulletin of Economics and Statistics*
   <details>
   <summary>Click to view abstract</summary>
@@ -83,3 +83,13 @@ market performance. By leveraging exogenous variation induced by a mental health
 findings suggest that observed changes in mental health within the considered time period can substantially improve economic outcomes for the population under study. The study
 contributes to informed decision-making regarding investment in mental health interventions, particularly in resource-constrained settings, such as LMICs. <br/>
 </details>
+
+
+[//]: # (Links)
+
+[Anirban Basu]: <http://www.anirbanbasu.org/>
+[Martin Salm]: <https://www.tilburguniversity.edu/staff/m-salm>
+[Hannes Ullrich]: <https://hannesullrich.com/>
+[Rodrigo Moreno-Serra]: <https://sites.google.com/site/rodrigomorenoserra/home>
+[Jose Corpuz]: <https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/>
+[Joseph Capuno]: <https://econ.upd.edu.ph/about-upse/faculty/jjcapuno/>
