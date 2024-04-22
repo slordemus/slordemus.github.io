@@ -43,7 +43,7 @@ This paper examines how natural disasters affect local public finances and their
 </small>
 </details>
 
-  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with Fabiana Rocha, Dolores Montoya Montoya Diaz, Paula Pereda, Isadora Bousquat Arabe, Filipe Cavalcanti, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
+  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Filipe Cavalcanti, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
 [February 2024] , *World Development*
 <details>
 <summary><small>Abstract</small></summary>
@@ -108,3 +108,7 @@ contributes to informed decision-making regarding investment in mental health in
 [Jose Corpuz]: <https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/>
 [Joseph Capuno]: <https://econ.upd.edu.ph/about-upse/faculty/jjcapuno/>
 [Eric B. Schneider]: <https://www.ericbschneider.com/>
+[Paula Pereda]: <https://sites.google.com/site/paulapereda/home>
+[Dolores Montoya Montoya Diaz]: <https://sites.google.com/site/madmdiaz/>
+[Fabiana Rocha]: <https://www.fea.usp.br/usuarios/docente/frocha>
+[Isadora Bousquat Arabe]: <https://www.lse.ac.uk/economics/people/research-students/isadora-bousquat-arabe>
