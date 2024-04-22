@@ -73,9 +73,9 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-Background: Child stunting is a major global health concern with 148.1 million children stunted in 2022. Global child stunting rates have fallen from 47.2% in 1985 to 22.3% in 2022, but trends before the mid 1980s are unclear including whether child stunting was prevalent in the past in current high-income countries (HICs).
+Background: Child stunting is a major global health concern with 148.1 million children stunted in 2022. Global child stunting rates have fallen from 47.2% in 1985 to 22.3% in 2022, but trends before the mid 1980s are unclear including whether child stunting was prevalent in the past in current high-income countries (HICs). <br/>
 
-Methods: We conducted a systematic review of child growth studies carried out before 1990 to reconstruct historical child stunting rates. The inclusion criteria were numerical reports of mean height by age and sex for children under age 10.99. We excluded studies that were not representative of the targeted population and data for children under age two so that estimates would be comparable across time and space. Stunting rates were computed by converting the means and sds of height to height-for-age Z-scores (HAZ) using the WHO standard/reference, combining the HAZ distributions at each age, and measuring the share of the combined distribution below the stunting threshold.
+Methods: We conducted a systematic review of child growth studies carried out before 1990 to reconstruct historical child stunting rates. The inclusion criteria were numerical reports of mean height by age and sex for children under age 10.99. We excluded studies that were not representative of the targeted population and data for children under age two so that estimates would be comparable across time and space. Stunting rates were computed by converting the means and sds of height to height-for-age Z-scores (HAZ) using the WHO standard/reference, combining the HAZ distributions at each age, and measuring the share of the combined distribution below the stunting threshold. <br/>
 
 Findings: We found 930 historical child growth studies allowing child stunting rates to be computed for 122 countries. We supplemented these historical studies with the over age 2 stunting estimates from the Joint Malnutrition Estimates adding another 1051 studies. Many current HICs had high levels of child stunting in the early twentieth century similar to low- and middle-income countries (LMICs) today. However, stunting rates were unusually low in Scandinavia, the European settler colonies and in the Caribbean. 
 Interpretation: Child stunting has declined in most parts of the world across the twentieth century, suggesting that the global child stunting rate would have been
@@ -102,7 +102,7 @@ contributes to informed decision-making regarding investment in mental health in
 [Nina Caspersen]: <https://www.york.ac.uk/politics/people/academicstaff/nina-caspersen/>
 [Nikita Jacob]: <https://www.york.ac.uk/che/staff/research/nikita-jacob/>
 [Rowena Jacobs]: <https://www.york.ac.uk/che/staff/research/rowena-jacobs/>
-[Marc Suhrcke] : <https://liser.elsevierpure.com/en/persons/marc-suhrcke>
+[Marc Suhrcke]: <https://liser.elsevierpure.com/en/persons/marc-suhrcke>
 [Rodrigo Moreno-Serra]: <https://sites.google.com/site/rodrigomorenoserra/home>
 [Noemi Kreif]: <https://sop.washington.edu/people/noemi-kreif/>
 [Jose Corpuz]: <https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/>
