@@ -68,7 +68,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
-**Worldwide Child Stunting since the Nineteenth Century** (with Eric B. Schneider, and 40 academic collaborators) <br/>
+**Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
 [Updated, November 2023]
 <details>
 <summary><small>Abstract</small></summary>
@@ -84,7 +84,7 @@ significantly higher in the past and that the eradication of child stunting was 
 </details>
 
 
-**The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa.** (with Nikita Jacob, Susan Cleary, Rowena Jacobs, Noemi Kreif, Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and Marc Suhrcke) <br/>
+**The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa.** (with [Nikita Jacob], Susan Cleary, [Rowena Jacobs], [Noemi Kreif], Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and [Marc Suhrcke]) <br/>
 [Updated, December 2023]
 <details>
 <summary><small>Abstract</small></summary>
@@ -107,4 +107,4 @@ contributes to informed decision-making regarding investment in mental health in
 [Noemi Kreif]: <https://sop.washington.edu/people/noemi-kreif/>
 [Jose Corpuz]: <https://warwick.ac.uk/fac/soc/economics/staff/jcorpuz/>
 [Joseph Capuno]: <https://econ.upd.edu.ph/about-upse/faculty/jjcapuno/>
-[]: <https://www.ericbschneider.com/>
+[Eric B. Schneider]: <https://www.ericbschneider.com/>
