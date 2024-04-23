@@ -1,3 +1,15 @@
+GIT
+  remote: https://github.com/mmistakes/minimal-mistakes.git
+  revision: 172a5169f1d83798d0e5c6dd22e3518a764fb850
+  specs:
+    minimal-mistakes-jekyll (4.25.0)
+      jekyll (>= 3.7, < 5.0)
+      jekyll-feed (~> 0.1)
+      jekyll-gist (~> 1.5)
+      jekyll-include-cache (~> 0.1)
+      jekyll-paginate (~> 1.1)
+      jekyll-sitemap (~> 1.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -238,13 +250,6 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minimal-mistakes-jekyll (4.25.0)
-      jekyll (>= 3.7, < 5.0)
-      jekyll-feed (~> 0.1)
-      jekyll-gist (~> 1.5)
-      jekyll-include-cache (~> 0.1)
-      jekyll-paginate (~> 1.1)
-      jekyll-sitemap (~> 1.3)
     minitest (5.20.0)
     mutex_m (0.2.0)
     nokogiri (1.15.4-x64-mingw-ucrt)
@@ -302,7 +307,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   jemoji
-  minimal-mistakes-jekyll
+  minimal-mistakes-jekyll!
   tzinfo-data
   wdm (~> 0.1.0)
 
