@@ -68,6 +68,15 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
+[**Where the money flows? Colonial health investment and hospital outcomes in the D.R.Congo**](/files/Lordemus_2024_Colonial_health.pdf)  <br/>
+[Updated, September 2024]
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+This paper explores the role of colonial medical missions in causing contemporaneous disparities in hospital outcomes in the Democratic Republic of Congo. Using GIS data and archival records from colonial Belgian Congo between 1929 and 1959, we track the establishment of colonial health settlements and match them with modern hospitals. First, we document a strong, positive, and persistent effect on infrastructure capacity. The ability of the colonial regime to mobilise large health investments and skilled resources appears to be a strong channel of persistence of the colonial effects. Second, we find that contemporaneous resources allocated by the central government to hospitals are substantially higher for hospitals with a colonial origin, even after controlling for differences in hospital ownership, staffing, and bed capacity. We argue that in the aftermath of independence, colonial hospitals obtained a comparative advantage from external assistance and may continue to have better bargaining power with the central government to attract public funds than postcolonial hospitals. <br/>
+</small>
+</details>
+
 **Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
 [Updated, November 2023]
 <details>
