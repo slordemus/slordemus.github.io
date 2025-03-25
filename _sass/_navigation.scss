@@ -184,7 +184,8 @@
     color: $masthead-link-color;
     text-decoration: none;
 
-    &:hover {
+    &:hover,
+    &:focus {
       color: $masthead-link-color-hover;
     }
   }
@@ -241,7 +242,9 @@
                 transform: scaleX(0); /* hide*/
       }
 
-      &:hover:before {
+      &:hover:before,
+      &:focus:before,
+      &.active-link:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/
