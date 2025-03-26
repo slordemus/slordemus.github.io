@@ -10,11 +10,12 @@ redirect_from:
 ## Published papers
 ---
 
-[**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](/files/PostWar_governance.pdf) (with [Nina Caspersen], Urban Jakša and [Rodrigo Moreno-Serra]) <br/>
+[**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](https://doi.org/10.1016/j.polgeo.2024.103090) (with [Nina Caspersen], Urban Jakša and [Rodrigo Moreno-Serra]) <br/>
 [May 2024], *Political Geography*
-<small>[ [Replication code][Repli] ] </small>
+<small>[ [Paper][draft5] | [Replication code][Repli] ]  </small>
 
 [Repli]:{{ site.baseurl }}{% link files/ReplicationGovtpost.zip %}
+[draft5]:{{ site.baseurl }}{% link /files/PostWar_governance.pdf %}
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -25,8 +26,12 @@ focus on post-war public services and very little analysis of challenges to rees
 </small>
 </details>
 
-  [**Natural Disasters and Local Government Finance: Evidence from Typhoon Haiyan**](/files/NaturalDisastersAndLocalGovernmentFinance.pdf)  (with [Jose Corpuz], and [Joseph Capuno])   <br/>
+  [**Natural Disasters and Local Government Finance: Evidence from Typhoon Haiyan**](https://doi.org/10.1016/j.jebo.2024.03.007)  (with [Jose Corpuz], and [Joseph Capuno])   <br/>
 [April 2024], *Journal of Economic Behavior and Organization*
+<small>[ [Paper][draft4] ]  </small>
+
+[draft4]:{{ site.baseurl }}{% link /files/NaturalDisastersAndLocalGovernmentFinance.pdf %}
+
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -34,8 +39,12 @@ This paper examines how natural disasters affect local public finances and their
 </small>
 </details>
 
-  [**Public Healthcare Financing during Counterinsurgency Efforts: Evidence from Colombia**](/files/Public_Healthcare_Colombia.pdf) (with [Rodrigo Moreno-Serra], and [Noemi Kreif])  <br/>
+  [**Public Healthcare Financing during Counterinsurgency Efforts: Evidence from Colombia**](https://doi.org/10.1111/obes.12603) (with [Rodrigo Moreno-Serra], and [Noemi Kreif])  <br/>
 [February 2024], *Oxford Bulletin of Economics and Statistics*
+<small>[ [Paper][draft3] ]  </small>
+
+[draft3]:{{ site.baseurl }}{% link /files/Public_Healthcare_Colombia.pdf %}
+
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -43,8 +52,12 @@ This paper examines how natural disasters affect local public finances and their
 </small>
 </details>
 
-  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](/files/BRAVEpapers-1.pdf) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Filipe Cavalcanti, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
+  [**COVID-19 and violence against women: current knowledge, gaps, and implications for public policy**](https://doi.org/10.1016/j.worlddev.2023.106461) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Filipe Cavalcanti, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
 [February 2024] , *World Development*
+<small>[ [Paper][draft2] ]  </small>
+
+[draft2]:{{ site.baseurl }}{% link /files/BRAVEpapers-1.pdf %}
+
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -52,8 +65,11 @@ This paper examines how natural disasters affect local public finances and their
 </small>
 </details>
 
-[**Does Aid for Malaria Increase with Exposure to Malaria Risk? Evidence from Mining Sites in the D.R.Congo**](/files/Aid_Malaria.pdf)  <br/>
+[**Does Aid for Malaria Increase with Exposure to Malaria Risk? Evidence from Mining Sites in the D.R.Congo**]( https://doi.org/10.1111/obes.12483)  <br/>
 [January 2022], *Oxford Bulletin of Economics and Statistics*
+<small>[ [Paper][draft1] ]  </small>
+
+[draft1]:{{ site.baseurl }}{% link /files/Aid_Malaria.pdf %}
 
 <details>
 <summary><small>Abstract</small></summary>
@@ -69,7 +85,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 
 ---
 [**Where the money flows? Colonial health investment and hospital outcomes in the D.R.Congo**](/files/Lordemus_2024_Colonial_health.pdf)  <br/>
-[Updated, December 2024]
+[Updated, March 2025]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -94,7 +110,7 @@ significantly higher in the past and that the eradication of child stunting was 
 
 
 **The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa.** (with [Nikita Jacob], Susan Cleary, [Rowena Jacobs], [Noemi Kreif], Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and [Marc Suhrcke]) <br/>
-[Updated, December 2023]
+[Updated, March 2025]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
