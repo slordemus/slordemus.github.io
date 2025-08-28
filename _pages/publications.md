@@ -10,6 +10,16 @@ redirect_from:
 ## Published papers
 ---
 
+  [**Public Policies and Femicides during the COVID-19 Pandemic: Evidence from São Paulo, Brazil**](https://doi.org/10.1016/j.ehb.2025.101508) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Pedro A.C. Oliveira, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
+[September 2025] , *Economics & Human Biology*
+
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+  With the outbreak of the COVID-19 pandemic in early 2020, concerns arose that stay-at-home policies could exacerbate Violence Against Women (VAW). Evidence shows an increase in calls to domestic violence helplines in several countries. However, limited economic studies have investigated the pandemic’s effects on femicides, the most extreme form of VAW. This paper examines the effects of social isolation measures and emergency aid policies implemented during the COVID-19 outbreak on femicides in São Paulo, Brazil. Using daily femicide data from 2016 to 2020, a social isolation index, and monthly employment and emergency cash transfer data, we estimate fixed-effects models. Our findings reveal that the probability of femicide more than doubled (0.32 p.p.) during periods of pronounced isolation (March-April 2020). The impact was more significant in poorer municipalities, where male job losses drove this increase. However, the provision of emergency aid in poorer areas, which covered 29.8% of the population in these areas, mitigated this harmful effect, reducing it by more than twice the magnitude of the employment shock. These results underline the interplay between economic conditions, social policies, and gender-based violence during crises. <br/>
+</small>
+</details>
+
 [**Ripe for Better Post-War Governance? The impact of the 2016 peace agreement on the reestablishment of health services in Colombia**](https://doi.org/10.1016/j.polgeo.2024.103090) (with [Nina Caspersen], Urban Jakša and [Rodrigo Moreno-Serra]) <br/>
 [May 2024], *Political Geography*
 <small>[ [Paper][draft5] | [Replication code][Repli] ]  </small>
@@ -84,12 +94,12 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
-[**Where the money flows? Colonial health investment and hospital contemporaneous outcomes in the D.R.Congo**](/files/Colonial_health_May2025.pdf)  <br/>
-[Updated, June 2025]
+[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_July2025.pdf)  <br/>
+[Updated, July 2025]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-This paper explores the role of colonial medical missions in causing contemporaneous disparities in hospital outcomes in the Democratic Republic of Congo. Using GIS data and archival records from colonial Belgian Congo between 1929 and 1959, we track the establishment of colonial health settlements and match them with modern hospitals. First, we document a strong, positive, and persistent effect on infrastructure capacity. The ability of the colonial regime to mobilise large health investments and skilled resources appears to be a strong channel of persistence of the colonial effects. Second, we find that contemporaneous resources allocated by the central government to hospitals are substantially higher for hospitals with a colonial origin, even after controlling for differences in hospital ownership, staffing, and bed capacity. We argue that in the aftermath of independence, colonial hospitals obtained a comparative advantage from external assistance and may continue to have better bargaining power with the central government to attract public funds than postcolonial hospitals. <br/>
+This paper examines how the historical development of health institutions shapes contemporary disparities in hospital financing and service provision. Using archival records from the Belgian Congo (1929–1959), we trace the establishment of colonial health settlements and link them to present-day hospitals. Exploiting historical variation driven by sleeping sickness prevalence, we show that colonial origins exert a persistent impact on infrastructure, largely through large colonial health investments. While service provision differences disappear once accounting for staffing, hospitals with colonial roots continue to attract greater government funding, reflecting legacies of post-independence donor support that reinforced their bargaining power and fiscal advantage. <br/>
 </small>
 </details>
 
