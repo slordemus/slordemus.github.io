@@ -109,7 +109,7 @@ significantly higher in the past and that the eradication of child stunting was 
 </details>
 
 
-**The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa.** (with [Nikita Jacob], Susan Cleary, [Rowena Jacobs], [Noemi Kreif], Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and [Marc Suhrcke]) <br/>
+**The Impact of Mental Health Status on Economic Outcomes: Evidence from the MIND-ECON trial in South Africa** (with [Nikita Jacob], Susan Cleary, [Rowena Jacobs], [Noemi Kreif], Vimbayi Mutyambizi-Mafunda, Bronwyn Myers and [Marc Suhrcke]) <br/>
 [Updated, March 2025]
 <details>
 <summary><small>Abstract</small></summary>
@@ -121,6 +121,14 @@ contributes to informed decision-making regarding investment in mental health in
 </small>
 </details>
 
+**Public Policies and Femicides during the COVID-19 Pandemic: Evidence from São Paulo, Brazil** (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Pedro Oliveira, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/>
+[Updated, March 2025]
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+With the outbreak of the COVID-19 pandemic in early 2020, concerns arose that stay-at-home policies could exacerbate Violence Against Women (VAW). Evidence shows an increase in calls to domestic violence helplines in several countries. However, limited economic studies have investigated the pandemic's effects on femicides, the most extreme form of VAW. This paper examines the effects of social isolation measures and emergency aid policies implemented during the COVID-19 outbreak on femicides in São Paulo, Brazil. Using daily femicide data from 2016 to 2020, a social isolation index, and monthly employment and emergency cash transfer data, we estimate fixed-effects models. Our findings reveal that the probability of femicide more than doubled (0.32 p.p.) during periods of pronounced isolation (March-April 2020). The impact was more significant in poorer municipalities, where male job losses drove this increase. However, the provision of emergency aid in poorer areas, which covered 29.8\% of the population in these areas, mitigated this harmful effect, reducing it by more than twice the magnitude of the employment shock. These results underline the interplay between economic conditions, social policies, and gender-based violence during crises. <br/>
+</small>
+</details>
 
 [//]: # (Links)
 
