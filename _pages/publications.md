@@ -11,7 +11,7 @@ redirect_from:
 ---
 
   [**Public Policies and Femicides during the COVID-19 Pandemic: Evidence from São Paulo, Brazil**](https://doi.org/10.1016/j.ehb.2025.101508) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Pedro A.C. Oliveira, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
-[September 2025] , *Economics & Human Biology*
+[September 2025], *Economics & Human Biology*
 
 <details>
 <summary><small>Abstract</small></summary>
