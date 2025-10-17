@@ -94,8 +94,8 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
-[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_July2025.pdf)  <br/>
-[Updated, July 2025]
+[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_Sept2025.pdf)  <br/>
+[Updated, September 2025]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
@@ -131,17 +131,19 @@ contributes to informed decision-making regarding investment in mental health in
 </small>
 </details>
 
-**Public Policies and Femicides during the COVID-19 Pandemic: Evidence from São Paulo, Brazil** (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Pedro Oliveira, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/>
-[Updated, March 2025]
+**Choosing coverage, using care: Disentangling direct and indirect effects of premium subsidies on healthcare demand** (with [Noel Ackermann], and [Stefan Boes]) <br/>
+[Updated, October 2025]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-With the outbreak of the COVID-19 pandemic in early 2020, concerns arose that stay-at-home policies could exacerbate Violence Against Women (VAW). Evidence shows an increase in calls to domestic violence helplines in several countries. However, limited economic studies have investigated the pandemic's effects on femicides, the most extreme form of VAW. This paper examines the effects of social isolation measures and emergency aid policies implemented during the COVID-19 outbreak on femicides in São Paulo, Brazil. Using daily femicide data from 2016 to 2020, a social isolation index, and monthly employment and emergency cash transfer data, we estimate fixed-effects models. Our findings reveal that the probability of femicide more than doubled (0.32 p.p.) during periods of pronounced isolation (March-April 2020). The impact was more significant in poorer municipalities, where male job losses drove this increase. However, the provision of emergency aid in poorer areas, which covered 29.8\% of the population in these areas, mitigated this harmful effect, reducing it by more than twice the magnitude of the employment shock. These results underline the interplay between economic conditions, social policies, and gender-based violence during crises. <br/>
+Health insurance premium subsidies aim to mitigate the financial pressure that mandatory premium payments exert on low-income individuals. We analyze the effects of newly receiving subsidies on health plan choice and healthcare demand in Switzerland's mandatory health insurance framework. Applying a heterogeneity-robust difference-in-differences estimator and a control function approach with a first-stage ordered probit model on rich administrative data, we find a two-fold effect of premium subsidies on healthcare demand. First, we confirm the existing literature, concluding that insurance decisions are sensitive to premium changes. Subsidy claimants are generally more likely to choose the lowest insurance deductible when receiving subsidies. Second, factoring out the indirect effect through the deductible channel, we find that premium subsidies increase healthcare demand. However, our results do not indicate that premium subsidies induce moral hazard directly. Moreover, out-of-pocket costs decrease when newly receiving subsidies. Therefore, on average, subsidies achieve the desired protective effect, i.e., better financial coverage in case healthcare expenditures are incurred. While this paper contributes to a better understanding of the effects of premium subsidies in Switzerland, further research is necessary to understand cantonal differences in subsidy payments as well as the role of the subsidy amount. <br/>
 </small>
 </details>
 
 [//]: # (Links)
 
+[Stefan Boes]: <https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/deans-office/facultys-board/prof-stefan-boes-phd/#tab=c94016>
+[Noel Ackermann]: <https://www.unilu.ch/en/faculties/faculty-of-health-sciences-and-medicine/professorships-lecturers-researchers/lecturers-researchers/lecturers-researchers/lecturers-researchers/lecturers-researchers/lecturers-researchers/lecturers-researchers/research-assistants/noel-ackermann-ma/#tab=c130908>
 [Nina Caspersen]: <https://www.york.ac.uk/politics/people/academicstaff/nina-caspersen/>
 [Nikita Jacob]: <https://www.york.ac.uk/che/staff/research/nikita-jacob/>
 [Rowena Jacobs]: <https://www.york.ac.uk/che/staff/research/rowena-jacobs/>
