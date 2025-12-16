@@ -103,6 +103,16 @@ This paper examines how the historical development of health institutions shapes
 </small>
 </details>
 
+[**Choosing coverage, using care: Disentangling direct and indirect effects of premium subsidies on healthcare demand**](/files/premium_subsidies.pdf) (with [Noel Ackermann], and [Stefan Boes]) <br/>
+[Updated, December 2025]
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+Health insurance premium subsidies are designed to alleviate the financial burden that mandatory premium payments exert on low-income individuals. We analyze the effects of newly receiving subsidies on health plan choice and healthcare demand in Switzerland's mandatory health insurance framework. Using rich administrative data on healthcare costs, health plan choice, and income, we combine a heterogeneity-robust difference-in-differences estimator with a control function approach that models deductible choice in the first stage and healthcare demand in the second stage. We document a two-fold effect of premium subsidies. First, consistent with prior evidence, insurance decisions are sensitive to premium changes: Subsidy claimants are more likely to select the lowest deductible once they begin receiving subsidies. Second, factoring out the indirect effect through the deductible channel, we find a direct positive effect of subsidies on healthcare costs at the intensive margin. However, our results do not indicate subsidy-induced moral hazard. Moreover, out-of-pocket costs decrease significantly, indicating that subsidies effectively enhance financial protection for low-income households. Our findings inform the behavioral and welfare consequences of income-targeted premium support and underscore how subsidy generosity and administrative design shape outcomes. <br/>
+</small>
+</details>
+
+
 **Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
 [Updated, November 2023]
 <details>
@@ -131,14 +141,7 @@ contributes to informed decision-making regarding investment in mental health in
 </small>
 </details>
 
-[**Choosing coverage, using care: Disentangling direct and indirect effects of premium subsidies on healthcare demand**](/files/premium_subsidies.pdf) (with [Noel Ackermann], and [Stefan Boes]) <br/>
-[Updated, December 2025]
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-Health insurance premium subsidies are designed to alleviate the financial burden that mandatory premium payments exert on low-income individuals. We analyze the effects of newly receiving subsidies on health plan choice and healthcare demand in Switzerland's mandatory health insurance framework. Using rich administrative data on healthcare costs, health plan choice, and income, we combine a heterogeneity-robust difference-in-differences estimator with a control function approach that models deductible choice in the first stage and healthcare demand in the second stage. We document a two-fold effect of premium subsidies. First, consistent with prior evidence, insurance decisions are sensitive to premium changes: Subsidy claimants are more likely to select the lowest deductible once they begin receiving subsidies. Second, factoring out the indirect effect through the deductible channel, we find a direct positive effect of subsidies on healthcare costs at the intensive margin. However, our results do not indicate subsidy-induced moral hazard. Moreover, out-of-pocket costs decrease significantly, indicating that subsidies effectively enhance financial protection for low-income households. Our findings inform the behavioral and welfare consequences of income-targeted premium support and underscore how subsidy generosity and administrative design shape outcomes. <br/>
-</small>
-</details>
+
 
 [//]: # (Links)
 
