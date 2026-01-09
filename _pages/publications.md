@@ -94,8 +94,8 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
-[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_Sept2025.pdf)  <br/>
-[Updated, September 2025]
+[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_dec2025.pdf)  <br/>
+[Updated, January 2026]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
