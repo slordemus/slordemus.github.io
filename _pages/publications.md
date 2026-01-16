@@ -9,6 +9,21 @@ redirect_from:
 ---
 ## Published papers
 ---
+**Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
+[Updated, December 2025], *Accepted, BMJ Global Health*
+<details>
+<summary><small>Abstract</small></summary>
+<small>
+Background: Child stunting is a major global health concern with 148.1 million children stunted in 2022. Global child stunting rates have fallen from 47.2% in 1985 to 22.3% in 2022, but trends before the mid 1980s are unclear including whether child stunting was prevalent in the past in current high-income countries (HICs). <br/>
+
+Methods: We conducted a systematic review of child growth studies carried out before 1990 to reconstruct historical child stunting rates. The inclusion criteria were numerical reports of mean height by age and sex for children under age 10.99. We excluded studies that were not representative of the targeted population and data for children under age two so that estimates would be comparable across time and space. Stunting rates were computed by converting the means and sds of height to height-for-age Z-scores (HAZ) using the WHO standard/reference, combining the HAZ distributions at each age, and measuring the share of the combined distribution below the stunting threshold. <br/>
+
+Findings: We found 930 historical child growth studies allowing child stunting rates to be computed for 122 countries. We supplemented these historical studies with the over age 2 stunting estimates from the Joint Malnutrition Estimates adding another 1051 studies. Many current HICs had high levels of child stunting in the early twentieth century similar to low- and middle-income countries (LMICs) today. However, stunting rates were unusually low in Scandinavia, the European settler colonies and in the Caribbean. 
+Interpretation: Child stunting has declined in most parts of the world across the twentieth century, suggesting that the global child stunting rate would have been
+significantly higher in the past and that the eradication of child stunting was an essential part of the health transition. The high stunting rates in HICs in the past and their subsequent eradication of stunting suggests that eradicating child stunting is possible in all LMICs and that current HICs could provide clues for eliminating stunting. <br/>
+</small>
+</details>
+
 
   [**Public Policies and Femicides during the COVID-19 Pandemic: Evidence from São Paulo, Brazil**](https://doi.org/10.1016/j.ehb.2025.101508) (with [Fabiana Rocha], [Dolores Montoya Montoya Diaz], [Paula Pereda], [Isadora Bousquat Arabe], Pedro A.C. Oliveira, [Noemi Kreif], and [Rodrigo Moreno-Serra]) <br/> 
 [September 2025], *Economics & Human Biology*
@@ -109,22 +124,6 @@ This paper examines how the historical development of health institutions shapes
 <summary><small>Abstract</small></summary>
 <small>
 Health insurance premium subsidies are designed to alleviate the financial burden that mandatory premium payments exert on low-income individuals. We analyze the effects of newly receiving subsidies on health plan choice and healthcare demand in Switzerland's mandatory health insurance framework. Using rich administrative data on healthcare costs, health plan choice, and income, we combine a heterogeneity-robust difference-in-differences estimator with a control function approach that models deductible choice in the first stage and healthcare demand in the second stage. We document a two-fold effect of premium subsidies. First, consistent with prior evidence, insurance decisions are sensitive to premium changes: Subsidy claimants are more likely to select the lowest deductible once they begin receiving subsidies. Second, factoring out the indirect effect through the deductible channel, we find a direct positive effect of subsidies on healthcare costs at the intensive margin. However, our results do not indicate subsidy-induced moral hazard. Moreover, out-of-pocket costs decrease significantly, indicating that subsidies effectively enhance financial protection for low-income households. Our findings inform the behavioral and welfare consequences of income-targeted premium support and underscore how subsidy generosity and administrative design shape outcomes. <br/>
-</small>
-</details>
-
-
-**Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
-[Updated, November 2023]
-<details>
-<summary><small>Abstract</small></summary>
-<small>
-Background: Child stunting is a major global health concern with 148.1 million children stunted in 2022. Global child stunting rates have fallen from 47.2% in 1985 to 22.3% in 2022, but trends before the mid 1980s are unclear including whether child stunting was prevalent in the past in current high-income countries (HICs). <br/>
-
-Methods: We conducted a systematic review of child growth studies carried out before 1990 to reconstruct historical child stunting rates. The inclusion criteria were numerical reports of mean height by age and sex for children under age 10.99. We excluded studies that were not representative of the targeted population and data for children under age two so that estimates would be comparable across time and space. Stunting rates were computed by converting the means and sds of height to height-for-age Z-scores (HAZ) using the WHO standard/reference, combining the HAZ distributions at each age, and measuring the share of the combined distribution below the stunting threshold. <br/>
-
-Findings: We found 930 historical child growth studies allowing child stunting rates to be computed for 122 countries. We supplemented these historical studies with the over age 2 stunting estimates from the Joint Malnutrition Estimates adding another 1051 studies. Many current HICs had high levels of child stunting in the early twentieth century similar to low- and middle-income countries (LMICs) today. However, stunting rates were unusually low in Scandinavia, the European settler colonies and in the Caribbean. 
-Interpretation: Child stunting has declined in most parts of the world across the twentieth century, suggesting that the global child stunting rate would have been
-significantly higher in the past and that the eradication of child stunting was an essential part of the health transition. The high stunting rates in HICs in the past and their subsequent eradication of stunting suggests that eradicating child stunting is possible in all LMICs and that current HICs could provide clues for eliminating stunting. <br/>
 </small>
 </details>
 
