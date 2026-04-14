@@ -9,8 +9,8 @@ redirect_from:
 ---
 ## Published papers
 ---
-**Worldwide Child Stunting since the Nineteenth Century** (with [Eric B. Schneider], and 40 academic collaborators) <br/>
-[Updated, December 2025], *Accepted, BMJ Global Health*
+[**Worldwide Child Stunting since the Nineteenth Century**](https://gh.bmj.com/content/bmjgh/11/2/e018607.full.pdf) (with [Eric B. Schneider], and 40 academic collaborators) <br/>
+[February 2026], *BMJ Global Health*
 <details>
 <summary><small>Abstract</small></summary>
 <small>
