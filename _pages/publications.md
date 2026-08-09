@@ -110,7 +110,7 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 
 ---
 [**Where the money flows? Historical Infrastructure and Public Resource Allocation: Evidence from Hospitals in the D.R.Congo**](/files/Colonial_health_July2026.pdf)  <br/>
-[Updated, February 2026]
+[Updated, July 2026]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
