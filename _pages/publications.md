@@ -109,12 +109,12 @@ I examine the ability of donors to target the highest exposure to malaria risk w
 <h2>Working papers</h2>
 
 ---
-[**Where the money flows? Colonial health investment and hospital contemporary outcomes in the D.R.Congo**](/files/Colonial_health_Feb2026.pdf)  <br/>
+[**Where the money flows? Historical Infrastructure and Public Resource Allocation: Evidence from Hospitals in the D.R.Congo**](/files/Colonial_health_July2026.pdf)  <br/>
 [Updated, February 2026]
 <details>
 <summary><small>Abstract</small></summary>
 <small>
-This paper examines how the historical development of health institutions shapes contemporary disparities in hospital financing and service provision. Using archival records from the Belgian Congo (1929–1959), we trace the establishment of colonial health settlements and link them to present-day hospitals. Exploiting historical variation driven by sleeping sickness prevalence, we show that colonial origins exert a persistent impact on infrastructure, largely through large colonial health investments. While service provision differences disappear once accounting for staffing, hospitals with colonial roots continue to attract greater government funding, reflecting legacies of post-independence donor support that reinforced their bargaining power and fiscal advantage. <br/>
+How do governments reallocate recurrent public spending following major institutional change? We examine whether limited bureaucratic capacity slows the reallocation of public resources by relying on historically embedded administrative relationships. Linking newly digitised colonial archives to contemporary administrative data on hospitals in the Democratic Republic of Congo, we find that hospitals established under colonial rule continue to receive higher government transfers and donor support decades after independence, despite providing no more observable services than comparable facilities. The evidence suggests that governments and donors rely on historically embedded providers, slowing the reallocation of recurrent public expenditure in low-capacity states. <br/>
 </small>
 </details>
 
