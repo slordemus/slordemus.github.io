@@ -118,7 +118,7 @@ How do governments reallocate recurrent public spending following major institut
 </small>
 </details>
 
-[**Choosing coverage, using care: Disentangling direct and indirect effects of premium subsidies on healthcare demand**](/files/premium_subsidies.pdf) (with [Noel Ackermann], and [Stefan Boes]) <br/>
+[**Choosing coverage, using care: Disentangling direct and indirect effects of premium subsidies on healthcare demand**] (with [Noel Ackermann], and [Stefan Boes]) <br/>
 [Updated, December 2025]
 <details>
 <summary><small>Abstract</small></summary>
